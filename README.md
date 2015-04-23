@@ -1,3 +1,14 @@
+
+—————————————————————————————————
+New Content for assignment
+The file CacheMatrix.R was updated
+in accordance with the requirements
+of Programming Assignment 2 described
+below. DE 4/21/2015
+
+——————————————————————————————————
+Original Content from Before Fork
+
 ### Introduction
 
 This second programming assignment will require you to write an R
