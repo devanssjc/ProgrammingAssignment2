@@ -1,5 +1,14 @@
 
 —————————————————————————————————
+Mostly fixed on error, where i
+was set to be in globalenv in
+makeCacheMatrix. I used a <<-
+instead of a <-. This didn’t
+effect the operation of the 
+functions, but it was confusing.
+
+Also fixed the example program.
+—————————————————————————————————
 New Content for assignment
 The file CacheMatrix.R was updated
 in accordance with the requirements
